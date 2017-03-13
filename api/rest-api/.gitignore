@@ -1,0 +1,26 @@
+### App ###
+/testing.php
+/config/config.php
+/storage/cache/
+!/storage/cache/.gitkeep
+/storage/logs/server
+!/storage/logs/.gitkeep
+!/storage/reports
+/storage/reports/coverage
+
+### Composer ###
+composer.phar
+/vendor/
+
+### Vim ###
+# swap
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+# session
+Session.vim
+# temporary
+.netrwhist
+*~
+# auto-generated tag files
+tags
+

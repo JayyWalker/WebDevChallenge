@@ -1,0 +1,5 @@
+tab_style = space
+
+[*.php]
+tab_width = 4
+insert_final_newline = true
