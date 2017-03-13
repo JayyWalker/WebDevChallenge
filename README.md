@@ -2,15 +2,6 @@
 > A hopefully ever-growing list of web-development related challenges
 ***
 
-## Guidelines for writing challenges
-1. Don't be too vague, but don't be too specific. Make the challenge itself specific and measurable, but try not to impose a language or framework.
-
-2. If you do want to create a framework/language specific challenge, try to focus on challenges that are unique to that framework/language.
-
-3. Avoid "learn XYZ" style challenges - focus on challenges that can be DONE or shown in a Git repo.
-
-4. Favor challenges that will teach a new, useful skill that is relevant to web development, or skills that teach devs how to solve real web dev problems. The challenge can be a fun, meaningless exercise, but its purpose should be to expose the developer to skills that are applicable to daily web dev tasks.
-
 ## Table of contents
 1. [Accessibility](#accessibility)
 2. [Api](#api)
@@ -62,26 +53,8 @@
 - [ ] Incorporate email confirmation and forgotten password functionality.
 
 ### CMS
-- [ ] Set up WordPress and create a custom theme ~ [Developing a WordPress Theme from Scratch](http://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/)
-- [ ] Set up Drupal and create a custom theme ~ [Drupal Theming Guide](https://www.drupal.org/documentation/theme)
-
-### CSS
-- [ ] Draw Homer Simpson using nothing but CSS.
-- [ ] Create a sprite sheet of Simpsons character components and create your own FrankenSimpson from it.
-- [ ] Vertically center a div.
-- [ ] Create a responsive three column equal height layout divided by 1px borders/dividers.
-- [ ] Create a sticky header.
-- [ ] Create a sticky footer.
-- [ ] Collapse a navigation bar to a hamburger menu when you're using any mobile device ~ [Responsive Dropdown Navigation Bar](http://www.taniarascia.com/responsive-dropdown-navigation-bar/)
-- [ ] Create a responsive website by using CSS media queries.
-- [ ] Collapse a navigation bar to a hamburger menu when you're using any mobile device ~ [Tutorial](http://www.taniarascia.com/responsive-dropdown-navigation-bar/)
-- [ ] Do the same, as the above, but only for the iPhone 6 Plus.
-- [ ] Create a basic CSS3 animation which uses opacity, transform and keyframes.
-- [ ] Try a preprocessor like LESS, SASS or Stylus.
-- [ ] Create a responsive grid with flexbox ~ [Easiest Flex Grid Ever](http://www.taniarascia.com/easiest-flex-grid-ever/)
-- [ ] Create a basic website using Bootstrap
-- [ ] Create a basic website using Foundation
-- [ ] Create a pure CSS parallax scrolling effect
+- [x] Set up WordPress and create a custom theme ~ [Developing a WordPress Theme from Scratch](http://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/)
+- [x] Set up Drupal and create a custom theme ~ [Drupal Theming Guide](https://www.drupal.org/documentation/theme)
 
 ### Database
 - [ ] Create a normalized database for storing comments and authors. Using that database, display the comments with authors, without incurring N+1 queries to do it.
