@@ -24,7 +24,9 @@
         "symfony/yaml": "^3.2.0",
         "doctrine/orm": "^2.5",
         "filp/whoops": "^2.1",
-        "cartalyst/sentinel": "2.0.*"
+        "cartalyst/sentinel": "2.0.*",
+        "php-tmdb/api": "~2.1",
+        "monolog/monolog": "^1.22"
     },
     "require-dev": {
         "fzaninotto/faker": "^1.6",
